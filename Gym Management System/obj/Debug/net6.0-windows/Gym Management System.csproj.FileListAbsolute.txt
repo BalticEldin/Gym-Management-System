@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\bin\Debug\net6.0-windows\Gym Management System.exe
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\bin\Debug\net6.0-windows\Gym Management System.deps.json
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\bin\Debug\net6.0-windows\Gym Management System.runtimeconfig.json
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\bin\Debug\net6.0-windows\Gym Management System.dll
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\bin\Debug\net6.0-windows\Gym Management System.pdb
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym_Management_System.Form1.resources
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym Management System.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym Management System.AssemblyInfo.cs
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym Management System.dll
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\refint\Gym Management System.dll
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym Management System.pdb
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym Management System.genruntimeconfig.cache
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\ref\Gym Management System.dll
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym_Management_System.Form2.resources
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym Management System.csproj.CopyComplete
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym_Management_System.NewStaff.resources
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym_Management_System.Form3.resources
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym_Management_System.ViewEquipment.resources
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym_Management_System.SearchMember.resources
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym_Management_System.DeleteMember.resources
+C:\Users\User\Desktop\Fakultet\Gym Management System - Programim i avancuar .NET\Gym Management System\Gym Management System\obj\Debug\net6.0-windows\Gym_Management_System.Login.resources

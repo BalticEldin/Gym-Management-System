@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|c:\\users\\user\\desktop\\fakultet\\gym management system - programim i avancuar .net\\gym management system\\gym management system\\viewequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\viewequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|c:\\users\\user\\desktop\\fakultet\\gym management system - programim i avancuar .net\\gym management system\\gym management system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|c:\\users\\user\\desktop\\fakultet\\gym management system - programim i avancuar .net\\gym management system\\gym management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|c:\\users\\user\\desktop\\fakultet\\gym management system - programim i avancuar .net\\gym management system\\gym management system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|c:\\users\\user\\desktop\\fakultet\\gym management system - programim i avancuar .net\\gym management system\\gym management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|c:\\users\\user\\desktop\\fakultet\\gym management system - programim i avancuar .net\\gym management system\\gym management system\\newstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\newstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|c:\\users\\user\\desktop\\fakultet\\gym management system - programim i avancuar .net\\gym management system\\gym management system\\searchmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7097D20A-2469-467D-AF3C-5541A9F713DA}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\searchmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\ViewEquipment.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\ViewEquipment.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\ViewEquipment.cs",
+              "RelativeToolTip": "Gym Management System\\ViewEquipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAACvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:08:25.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchMember.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\SearchMember.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\SearchMember.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\SearchMember.cs",
+              "RelativeToolTip": "Gym Management System\\SearchMember.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBwAAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:08:15.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewStaff.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\NewStaff.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\NewStaff.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\NewStaff.cs",
+              "RelativeToolTip": "Gym Management System\\NewStaff.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wC8AAACvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:08:06.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\Login.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\Login.cs",
+              "RelativeToolTip": "Gym Management System\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:08:00.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\Form3.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\Form3.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\Form3.cs",
+              "RelativeToolTip": "Gym Management System\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAACvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:07:44.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\Form1.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\Form1.cs",
+              "RelativeToolTip": "Gym Management System\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:07:33.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\Form2.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Fakultet\\Gym Management System - Programim i avancuar .NET\\Gym Management System\\Gym Management System\\Form2.cs",
+              "RelativeToolTip": "Gym Management System\\Form2.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwCwAAACvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:21:57.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
